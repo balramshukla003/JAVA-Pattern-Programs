@@ -1,4 +1,4 @@
-public class traingle {
+public class EqualateralTraingle {
     public static void main(String[] args) {
 
         for (int i = 1; i < 6; i++) {
