@@ -1,4 +1,4 @@
-public class ulta2 {
+public class Righttraingle{
     public static void main(String[] args) {
 
 
