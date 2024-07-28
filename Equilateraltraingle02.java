@@ -1,4 +1,4 @@
-public class ulta_tria {
+public class Equilateraltraingle02{
     public static void main(String[] args) {
 
 
